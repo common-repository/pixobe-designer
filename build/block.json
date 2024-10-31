@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "create-block/pixobe-designer",
+  "version": "1.0.0",
+  "title": "Pixobe Designer",
+  "category": "widgets",
+  "icon": "smiley",
+  "description": "Simply drag and drop your images and customize your layout and export it as jpeg/png, all within your favorite design plugin. Upgrade your design game today with Pixobe Designer!",
+  "supports": {
+    "html": false
+  },
+  "textdomain": "pixobe-designer",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

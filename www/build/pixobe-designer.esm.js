@@ -1,0 +1,1 @@
+import{p as e,b as a}from"./p-ada0da3c.js";export{s as setNonce}from"./p-ada0da3c.js";(()=>{const a=import.meta.url,s={};return""!==a&&(s.resourcesUrl=new URL(".",a).href),e(s)})().then((e=>a([["p-8978dcd6",[[1,"pixobe-designer",{sheetName:[1,"sheet-name"],activeObject:[32]}],[1,"canva-icon",{name:[1]}]]]],e)));
